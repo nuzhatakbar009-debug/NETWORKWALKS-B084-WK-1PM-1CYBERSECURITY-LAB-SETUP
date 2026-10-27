@@ -119,7 +119,7 @@ IPv4 Prefix:  10.0.0.0/24
 DHCP:         Enabled
 IPv6:         Disabled
 
-![](2nd screenshot-network setting.PNG)
+![](https://github.com/nuzhatakbar009-debug/NETWORKWALKS-B084-WK-1PM-1CYBERSECURITY-LAB-SETUP/blob/main/2nd%20screenshot%20-network%20setting.PNG)
 
 A **NAT Network** was selected because multiple virtual machines connected to the same NAT Network can communicate with one another while also having outbound network connectivity.
 
