@@ -312,5 +312,5 @@ LinkedIn: [https://www.linkedin.com/in/nuzhat-akbar-a17963289)
 
 ## 📌 Project Information
 
-**Program Name:** Cybersecurity at Networkwalks | **Week:** 01 | **Project:** Cybersecurity & Pentesting Lab Setup | **Repository:** GitHub
+| 🌍 DNS Server | 8.8.8.8 | | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 
