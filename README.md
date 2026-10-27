@@ -304,7 +304,7 @@ This laboratory is intended strictly for education purposes only.
 # 👤 Author
 
 **Nuzhat Shaheen**\
-Cybersecurity intern
+Cybersecurity intern (Batch: B084)
 
 LinkedIn: [https://www.linkedin.com/in/nuzhat-akbar-a17963289)
 
