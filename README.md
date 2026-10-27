@@ -311,6 +311,6 @@ LinkedIn: [https://www.linkedin.com/in/nuzhat-akbar-a17963289)
 ---
 
 ## 📌 Project Information
-
+Program Name: Cybersecurity internship  at Networkwalks|Week:01|Project 1: Lab Setup Virtualbox & KaliLinux
 | 🌍 DNS Server | 8.8.8.8 | | 🔮 Future VM Range | 10.0.0.3–10.0.0.99 |
 
